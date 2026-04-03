@@ -190,9 +190,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parthmh361&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parthmh361&theme=tokyonight" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmh361&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthmh361&theme=tokyonight" height="175"/>
 
 <br/><br/>
 
