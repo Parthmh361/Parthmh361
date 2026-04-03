@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PARTH%20CHOUDHARI&fontSize=52&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%9A%A1%20ML%20%E2%9A%A1%20Builder%20of%20Things%20That%20Matter&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=git+push+origin+main+%E2%9C%93;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat;IEEE+Chair+%7C+Hackathon+Winner+%7C+Night+Owl+Dev;Full+Stack+%2B+ML+%3D+Dangerous+Combo+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PARTH%20CHOUDHARI&fontSize=56&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20ML%20%7C%20IEEE%20Chair%20%7C%20Builder%20of%20Real%20Things&descAlignY=62&descSize=17&descColor=a78bfa" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=git+push+origin+main+%E2%9C%94;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat;IEEE+Student+Branch+Chair+%7C+Hackathon+Winner;Full+Stack+%2B+ML+%3D+Dangerous+Combination;Currently+unlocking%3A+Agentic+AI+%F0%9F%94%93" alt="Typing SVG" />
+
+<br/><br/>
 
 [![](https://visitcount.itsvg.in/api?id=Parthmh361&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
+
+<br/>
 
 ---
 
@@ -19,30 +22,34 @@
 ```json
 {
   "name"         : "Parth Choudhari",
-  "role"         : "Full Stack Developer + ML Engineer",
+  "role"         : "Full Stack Developer  +  ML Engineer",
   "faction"      : "IEEE Student Branch — Chair",
-  "mindset"      : "Build → Break → Learn → Repeat",
-  "currentQuest" : "Mastering DSA + Agentic AI Systems",
+  "mindset"      : "Build  →  Break  →  Learn  →  Repeat",
+  "currentQuest" : ["DSA Mastery", "Agentic AI Systems"],
   "xp_source"    : ["Real Projects", "Hackathons", "Late Nights"],
-  "status"       : "ONLINE 🟢",
+  "status"       : "[ ONLINE ]",
   "difficulty"   : "HARD MODE — No Tutorial Selected"
 }
 ```
+
+<br/>
 
 ---
 
 ## `> SKILL_BLOCKS [ Tetris Edition ]`
 
 ```
- LANGUAGES      ████████████████████  [ C · C++ · Python · JavaScript ]
- FRONTEND       ████████████████░░░░  [ React · Next.js · HTML · CSS   ]
- BACKEND        ███████████████░░░░░  [ Node.js · Express · REST APIs  ]
- DATABASES      ██████████████░░░░░░  [ MongoDB · MySQL · Firebase     ]
- AI / ML        ████████████░░░░░░░░  [ TensorFlow · Scikit · Pandas   ]
- DEVOPS         ████████░░░░░░░░░░░░  [ Docker · Git · Vercel · Render ]
- AGENTIC AI     ████░░░░░░░░░░░░░░░░  [ Learning... unlocking soon 🔓  ]
- DSA            ████████░░░░░░░░░░░░  [ Active grind — daily commits   ]
+ LANGUAGES    ████████████████████░░  C · C++ · Python · JavaScript
+ FRONTEND     ████████████████░░░░░░  React · Next.js · HTML · CSS
+ BACKEND      ███████████████░░░░░░░  Node.js · Express · REST APIs
+ DATABASES    ██████████████░░░░░░░░  MongoDB · MySQL · Firebase
+ AI / ML      ████████████░░░░░░░░░░  TensorFlow · Scikit-Learn · Pandas
+ DEVOPS       ████████░░░░░░░░░░░░░░  Docker · Git · Vercel · Render
+ DSA          ████████░░░░░░░░░░░░░░  Active grind — daily commits
+ AGENTIC AI   ████░░░░░░░░░░░░░░░░░░  Unlocking... [ IN PROGRESS ]
 ```
+
+<br/>
 
 ---
 
@@ -50,101 +57,132 @@
 
 <div align="center">
 
-**[ LANGUAGES ]**
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**LANGUAGES**
 
-**[ FRAMEWORKS & RUNTIME ]**
+<img src="https://skillicons.dev/icons?i=py,js,cpp,c,html,css&perline=6&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+</td>
+<td align="center" width="50%">
 
-**[ AI / ML ]**
+**FRAMEWORKS & RUNTIME**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=6&theme=dark" />
 
-**[ DATABASES & CLOUD ]**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+**AI / ML**
 
-**[ TOOLS ]**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td align="center">
+
+**DATABASES & CLOUD**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,docker&perline=6&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman&perline=6&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
 ## `> ACTIVE_MISSIONS [ 3 Deployed ]`
 
 <details>
-<summary><b>🌾 MISSION_01 — Cotton Supply Chain Intelligence Platform</b></summary>
+<summary><b>&nbsp;&nbsp;MISSION_01 &nbsp;—&nbsp; Cotton Supply Chain Intelligence Platform</b></summary>
 
 <br/>
 
-| Field | Details |
+<div align="center">
+
+| | |
 |---|---|
 | **Objective** | Automate multilingual market intelligence for the cotton industry |
-| **Stack** | Python · Web Scraping · Data Processing · Automation |
-| **Impact** | 300+ data points across 4 languages · 30%+ reduction in manual effort |
-| **Status** | `✅ DEPLOYED` |
-| **Repo** | [karpkala-prototype1 →](https://github.com/Parthmh361/karpkala-prototype1.git) |
+| **Stack** | Python &nbsp;·&nbsp; Web Scraping &nbsp;·&nbsp; Data Processing &nbsp;·&nbsp; Automation |
+| **Impact** | 300+ data points across 4 languages &nbsp;·&nbsp; 30%+ reduction in manual effort |
+| **Status** | `DEPLOYED` |
+| **Repo** | [karpkala-prototype1 →](https://github.com/Parthmh361/karpkala-prototype1) |
 
-> Built an automated scraping pipeline that captures real-time niche market insights across multilingual sources — making obscure data actually usable.
+</div>
+
+> Built an automated scraping pipeline aggregating real-time niche market insights across multilingual sources — making obscure industry data actually usable.
+
+<br/>
 
 </details>
 
 <details>
-<summary><b>🤝 MISSION_02 — SARTHI: NGO Operations & Analytics Platform</b></summary>
+<summary><b>&nbsp;&nbsp;MISSION_02 &nbsp;—&nbsp; SARTHI: NGO Operations & Analytics Platform</b></summary>
 
 <br/>
 
-| Field | Details |
+<div align="center">
+
+| | |
 |---|---|
 | **Objective** | Centralized ops dashboard for NGO volunteer management & analytics |
-| **Stack** | React · Node.js · MongoDB · Role-based Auth |
-| **Impact** | 50+ users · 30%+ faster information retrieval |
-| **Status** | `✅ DEPLOYED` |
-| **Repo** | [samadhan_mobile_app →](https://github.com/Parthmh361/samadhan_mobile_app.git) |
+| **Stack** | React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Role-based Auth |
+| **Impact** | 50+ active users &nbsp;·&nbsp; 30%+ faster information retrieval |
+| **Status** | `DEPLOYED` |
+| **Repo** | [samadhan_mobile_app →](https://github.com/Parthmh361/samadhan_mobile_app) |
 
-> Real-time dashboards per role. Built to handle ground-level chaos of NGO operations — scalable from Day 1.
+</div>
+
+> Real-time role-based dashboards. Built to handle ground-level NGO chaos — scalable from Day 1. Born from Samadhan 2025 hackathon win.
+
+<br/>
 
 </details>
 
 <details>
-<summary><b>⚖️ MISSION_03 — Legal Sahayogi: Lawyer-Client Discovery Platform</b></summary>
+<summary><b>&nbsp;&nbsp;MISSION_03 &nbsp;—&nbsp; Legal Sahayogi: Lawyer-Client Discovery Platform</b></summary>
 
 <br/>
 
-| Field | Details |
+<div align="center">
+
+| | |
 |---|---|
 | **Objective** | Streamline case management and client discovery for legal professionals |
-| **Stack** | React · Node.js · Vercel |
-| **Impact** | 35%+ reduction in manual case handling effort |
-| **Status** | `✅ LIVE ON VERCEL` |
-| **Repo** | [Legal-Sahayogi-Client →](https://github.com/Parthmh361/Legal-Sahayogi-Client.git) |
+| **Stack** | React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Vercel |
+| **Impact** | 35%+ reduction in manual case handling &nbsp;·&nbsp; Live production users |
+| **Status** | `LIVE ON VERCEL` |
+| **Repo** | [Legal-Sahayogi-Client →](https://github.com/Parthmh361/Legal-Sahayogi-Client) |
 
-> End-to-end workflow automation for lawyer-client coordination. Deployed to production with live user access.
+</div>
+
+> End-to-end workflow automation for lawyer-client coordination. Deployed to production with real users from day one.
+
+<br/>
 
 </details>
+
+<br/>
 
 ---
 
@@ -152,33 +190,39 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parthmh361&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmh361&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Parthmh361&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_radius=10&rank_icon=github" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmh361&layout=compact&theme=radical&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Parthmh361&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Parthmh361&theme=radical&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&background=0d1117&border_radius=10" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthmh361&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthmh361&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b6340&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `> CONTRIBUTION_GRID [ PacMan Mode ]`
+## `> CONTRIBUTION_GRID [ Snake Mode ]`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg" width="95%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg" width="95%"/>
 </picture>
 
+> *Run the GitHub Action once to activate the snake animation →* [Actions Tab](https://github.com/Parthmh361/Parthmh361/actions)
+
 </div>
+
+<br/>
 
 ---
 
@@ -187,19 +231,21 @@
 ```yaml
 QUEST_1:
   name    : "DSA Mastery"
-  status  : "🟡 IN PROGRESS — daily problem grinding"
+  status  : "IN PROGRESS — daily problem grinding"
   goal    : "Think in patterns, not just solutions"
-  
+
 QUEST_2:
   name    : "Agentic AI Systems"
-  status  : "🔵 UNLOCKING — exploring agent frameworks"
+  status  : "UNLOCKING — exploring agent frameworks"
   goal    : "Build AI that acts, not just responds"
   mindset : "The next frontier of intelligent full-stack apps"
 
 NEXT_BUILD:
-  idea    : "Merge ML + Full Stack into an autonomous system"
-  status  : "🔴 PLANNING PHASE"
+  idea    : "Autonomous full-stack system powered by ML agents"
+  status  : "PLANNING PHASE"
 ```
+
+<br/>
 
 ---
 
@@ -207,15 +253,42 @@ NEXT_BUILD:
 
 <div align="center">
 
-| Badge | Achievement | Details |
-|:---:|---|---|
-| 🏆 | **Samadhan 2025 — Hackathon Winner** | Built & won under pressure. SARTHI born here. |
-| 🥈 | **National Hackathon Finalist** | Top-tier performance on a national stage |
-| 🎖️ | **IEEE Student Branch Chair** | Took charge with zero blueprint. Built structure from scratch. |
-| ⚡ | **24-Hour Hackathon Lead** | Planned → Executed → Coordinated a national-level event end-to-end |
-| 🚀 | **3 Production Deployments** | Real users. Real impact. Not just repos. |
+<table>
+<tr>
+<th>Rank</th>
+<th>Achievement</th>
+<th>Details</th>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/WINNER-FFD700?style=for-the-badge"/></td>
+<td><b>Samadhan 2025 — Hackathon Winner</b></td>
+<td>Built & won under pressure. SARTHI was born here.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/FINALIST-C0C0C0?style=for-the-badge"/></td>
+<td><b>National Hackathon Finalist</b></td>
+<td>Top-tier performance on a national stage.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CHAIR-00f5ff?style=for-the-badge"/></td>
+<td><b>IEEE Student Branch — Chair</b></td>
+<td>Built operational structure from the ground up. No blueprint.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LEAD-a78bfa?style=for-the-badge"/></td>
+<td><b>24-Hour National Hackathon Organizer</b></td>
+<td>Planned → Executed → Coordinated at full scale.</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/SHIPPED-4ea94b?style=for-the-badge"/></td>
+<td><b>3× Production Deployments</b></td>
+<td>Real users. Real impact. Not just GitHub repos.</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -224,12 +297,14 @@ NEXT_BUILD:
 ```
 [ IEEE Student Branch — Chair ]
 
-▸ Zero-to-operational: Built branch structure with minimal guidance
-▸ Orchestrated a 24-hour national hackathon — end-to-end ownership
-▸ Decision-making under real pressure, not classroom simulations
-▸ Managed planning → logistics → execution → coordination at scale
-▸ Developed a team that could actually execute, not just plan
+  ▸  Zero-to-operational: Built branch structure with zero prior blueprint
+  ▸  Orchestrated a 24-hour national hackathon — complete end-to-end ownership
+  ▸  Real decision-making under pressure, not classroom simulations
+  ▸  Managed full lifecycle: planning → logistics → execution → coordination
+  ▸  Developed a team capable of executing, not just planning
 ```
+
+<br/>
 
 ---
 
@@ -237,20 +312,30 @@ NEXT_BUILD:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-choudhari-2073a0294)
-[![Gmail](https://img.shields.io/badge/Gmail-choudhariparth3612@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choudhariparth3612@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Parthmh361-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthmh361)
+<a href="https://linkedin.com/in/parth-choudhari-2073a0294">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:choudhariparth3612@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Parthmh361">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 > *"I don't just write code. I ship things that work."*
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=14&fontColor=00f5ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
