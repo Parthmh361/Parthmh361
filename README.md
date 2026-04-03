@@ -36,7 +36,7 @@
 
 ---
 
-## `> SKILL_BLOCKS [ Tetris Edition ]`
+## `> SKILL_BLOCKS`
 
 ```
  LANGUAGES    ████████████████████░░  C · C++ · Python · JavaScript
@@ -111,7 +111,7 @@
 
 ---
 
-## `> ACTIVE_MISSIONS [ 3 Deployed ]`
+## `> ACTIVE_MISSIONS`
 
 <details>
 <summary><b>&nbsp;&nbsp;MISSION_01 &nbsp;—&nbsp; Cotton Supply Chain Intelligence Platform</b></summary>
@@ -186,21 +186,21 @@
 
 ---
 
-## `> PLAYER_STATS [ Live ]`
+## `> PLAYER_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parthmh361&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_radius=10&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Parthmh361&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmh361&layout=compact&theme=radical&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthmh361&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Parthmh361&theme=radical&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&background=0d1117&border_radius=10" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Parthmh361&theme=tokyonight&hide_border=true" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthmh361&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&area_color=302b6340&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthmh361&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -208,7 +208,7 @@
 
 ---
 
-## `> CONTRIBUTION_GRID [ Snake Mode ]`
+## `> CONTRIBUTION_GRID`
 
 <div align="center">
 
@@ -218,7 +218,7 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg" width="95%"/>
 </picture>
 
-> *Run the GitHub Action once to activate the snake animation →* [Actions Tab](https://github.com/Parthmh361/Parthmh361/actions)
+
 
 </div>
 
@@ -226,7 +226,7 @@
 
 ---
 
-## `> CURRENT_QUEST [ Active ]`
+## `> CURRENT_QUEST`
 
 ```yaml
 QUEST_1:
@@ -249,7 +249,7 @@ NEXT_BUILD:
 
 ---
 
-## `> ACHIEVEMENTS [ Unlocked ]`
+## `> ACHIEVEMENTS`
 
 <div align="center">
 
