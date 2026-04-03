@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PARTH%20CHOUDHARI&fontSize=56&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20ML%20%7C%20IEEE%20Chair%20%7C%20Builder%20of%20Real%20Things&descAlignY=62&descSize=17&descColor=a78bfa" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PARTH%20CHOUDHARI&fontSize=56&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20ML%20%7C%20IEEE%20Chair%20%7C%20Thinking%20in%20Systems%2C%20Building%20in%20Code&descAlignY=62&descSize=17&descColor=a78bfa" width="100%"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=git+push+origin+main+%E2%9C%94;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat;IEEE+Student+Branch+Chair+%7C+Hackathon+Winner;Full+Stack+%2B+ML+%3D+Dangerous+Combination;Currently+unlocking%3A+Agentic+AI+%F0%9F%94%93" alt="Typing SVG" />
