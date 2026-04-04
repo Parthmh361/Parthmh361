@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Breakout Animation
 
 on:
   schedule:
@@ -8,12 +8,8 @@ on:
     branches:
       - main
 
-# ── FIX: grant write access so the action can push to the output branch ──
 permissions:
   contents: write
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # silence Node.js 20 warnings
 
 jobs:
   generate:
@@ -21,18 +17,34 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Deploy snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Generate Breakout SVG
+        uses: cyprieng/github-breakout@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
+          github_username: ${{ github.repository_owner }}
+          ball_color: "#00f5ff"
+          paddle_color: "#a78bfa"
+          bricks_colors: "#1a1a2e,#16213e,#0f3460,#533483,#00f5ff"
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to target branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub Breakout SVGs" || echo "No changes to commit"
+          git push --force origin github-breakout

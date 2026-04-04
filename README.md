@@ -212,9 +212,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Parthmh361/Parthmh361/output/github-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/github-breakout/images/breakout-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthmh361/Parthmh361/github-breakout/images/breakout-light.svg"/>
+  <img alt="GitHub contribution Breakout game" src="https://raw.githubusercontent.com/Parthmh361/Parthmh361/github-breakout/images/breakout-dark.svg" width="95%"/>
 </picture>
 
 
